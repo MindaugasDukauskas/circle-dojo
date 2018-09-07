@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node ./index.js",
-    "test": "echo \"no test\"",
+    "test2": "echo \"no test\"",
     "lint": "echo \"no lint\""
   },
   "repository": {
